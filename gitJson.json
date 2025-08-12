@@ -1,0 +1,52 @@
+[
+{
+	"p_rel_url":"web-sai-tech/fabricTut/refs/heads/main/Details.csv",
+	"p_sink_folder":"Details",
+	"p_sink_file":"Details.csv"
+},
+{
+	"p_rel_url":"web-sai-tech/fabricTut/refs/heads/main/Orders.csv",
+	"p_sink_folder":"Orders",
+	"p_sink_file":"Orders.csv"
+},
+{
+	"p_rel_url":"web-sai-tech/fabricTut/refs/heads/main/annual-enterprise-survey-2024-financial-year-provisional-size-bands.csv",
+	"p_sink_folder":"annual-enterprise-survey-2024-financial-year-provisional-size-bands",
+	"p_sink_file":"annual-enterprise-survey-2024-financial-year-provisional-size-bands.csv"
+},
+{
+	"p_rel_url":"web-sai-tech/fabricTut/refs/heads/main/annual-enterprise-survey-2024-financial-year-provisional.csv",
+	"p_sink_folder":"annual-enterprise-survey-2024-financial-year-provisional",
+	"p_sink_file":"annual-enterprise-survey-2024-financial-year-provisional.csv"
+},
+{
+	"p_rel_url":"web-sai-tech/fabricTut/refs/heads/main/business-operations-survey-2022-business-finance.csv",
+	"p_sink_folder":"business-operations-survey-2022-business-finance",
+	"p_sink_file":"business-operations-survey-2022-business-finance.csv"
+},
+{
+	"p_rel_url":"web-sai-tech/fabricTut/refs/heads/main/business-operations-survey-2022-price-and-wage-setting.csv",
+	"p_sink_folder":"business-operations-survey-2022-price-and-wage-setting",
+	"p_sink_file":"business-operations-survey-2022-price-and-wage-setting.csv"
+},
+{
+	"p_rel_url":"web-sai-tech/fabricTut/refs/heads/main/business-operations-survey-2023-business-operations.csv",
+	"p_sink_folder":"business-operations-survey-2023-business-operations",
+	"p_sink_file":"business-operations-survey-2023-business-operations.csv"
+},
+{
+	"p_rel_url":"web-sai-tech/fabricTut/refs/heads/main/business-operations-survey-2023-business-practices.csv",
+	"p_sink_folder":"business-operations-survey-2023-business-practices",
+	"p_sink_file":"business-operations-survey-2023-business-practices.csv"
+},
+{
+	"p_rel_url":"web-sai-tech/fabricTut/refs/heads/main/business-operations-survey-2023-climate-change.csv",
+	"p_sink_folder":"business-operations-survey-2023-climate-change",
+	"p_sink_file":"business-operations-survey-2023-climate-change.csv"
+},
+{
+	"p_rel_url":"web-sai-tech/fabricTut/refs/heads/main/business-operations-survey-2023-innovation.csv",
+	"p_sink_folder":"business-operations-survey-2023-innovation",
+	"p_sink_file":"business-operations-survey-2023-innovation.csv"
+}
+]
